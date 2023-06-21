@@ -1,0 +1,13 @@
+!.env.example
+*.tmp
+.DS_Store
+.env*
+.output
+.project
+.settings/
+.solid
+/.idea
+/node_modules
+Thumbs.db
+dist
+tmp/
