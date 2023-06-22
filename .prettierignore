@@ -1,0 +1,5 @@
+node_modules
+.solid
+dist
+.lintstagedrc.json
+.stylelintrc.json

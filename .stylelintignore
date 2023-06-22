@@ -1,0 +1,9 @@
+.husky
+.solid
+dist
+
+node_modules
+public
+
+**/*.ts
+**/*.tsx
